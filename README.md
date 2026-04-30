@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/ViniCurio">
-  <img heignt="180em" src="https://github-readme-stats.vercel.app/api?username=ViniCurio&show_icons=true&theme=black">
+  <img heignt="180em" src="https://github-readme-stats.vercel.app/api?username=ViniCurio&show_icons=true&theme=radical">
   <img heignt="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniCurio&layout=compact">
 </div>
 
