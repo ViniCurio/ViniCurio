@@ -23,3 +23,5 @@
   <img align="left" alt="Rafa-Nd" height="35" width="35" src="https://media2.dev.to/dynamic/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F23%2Fnode-sticker.png">
 </div>
 
+![Snake animation](https://github.com/ViniCurio/ViniCurio/blob/output/github-contribution-grid-snake.svg)
+
