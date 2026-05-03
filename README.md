@@ -10,8 +10,7 @@
 
 <div>
   <a href="https://github.com/ViniCurio">
-  <img heignt="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
-  <img heignt="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniCurio&layout=compact">
+  
 </div>
 
 <div display="grid: grid-template-columns: repeat(2, 1fr), gap: 10px">
